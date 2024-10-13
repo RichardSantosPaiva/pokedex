@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O projeto **Pokédex** tem como objetivo praticar a chamada de APIs de forma lúdica, exibindo dados dos Pokémon a partir da pesquisa pelo nome ou pela numeração. É uma aplicação simples que permite ao usuário visualizar informações detalhadas sobre os Pokémon, como suas habilidades, tipos e estatísticas.
+O projeto **Pokédex** tem como objetivo praticar a chamada de APIs de forma lúdica, exibindo dados dos Pokémon a partir da pesquisa pelo nome ou pela numeração. É uma aplicação simples que permite ao usuário visualizar informações detalhadas sobre os Pokémon.
 
 ## Tecnologias Utilizadas
 
